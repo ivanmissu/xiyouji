@@ -1,6 +1,3 @@
 # xiyouji
-
-'''
-	日常学习记录
-'''
+the opensource image resolver
 
